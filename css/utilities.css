@@ -3,3 +3,17 @@
     color: #3E3F99;
 }
 
+.primary-cta {
+    border: #3E3F99 2px solid;
+    background-color: #3E3F99;
+    border-radius: 5px;
+}
+
+.cta .primary-cta {
+    color: #fff;
+}
+
+.secondary-cta {
+    border: #3E3F99 2px solid;
+    border-radius: 5px;
+}
